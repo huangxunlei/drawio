@@ -4,8 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Fa9SJefxMboqEr4pW7fy-1" value="ok" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="Fa9SJefxMboqEr4pW7fy-1" value="用户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="110" y="440" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T-lULtYK8KFaJdvM1O1u-1" value="部门" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="290" y="420" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T-lULtYK8KFaJdvM1O1u-2" value="职务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="290" y="490" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T-lULtYK8KFaJdvM1O1u-3" value="角色" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="290" y="560" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
