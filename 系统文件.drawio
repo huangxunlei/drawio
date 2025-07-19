@@ -16,8 +16,26 @@
         <mxCell id="T-lULtYK8KFaJdvM1O1u-3" value="角色" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="230" y="560" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T-lULtYK8KFaJdvM1O1u-4" value="用户必须有部门和角色" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="T-lULtYK8KFaJdvM1O1u-4" value="用户必须有部门和角色，部门也可以分配角色" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="65" y="620" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T-lULtYK8KFaJdvM1O1u-5" value="权限" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="510" y="480" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T-lULtYK8KFaJdvM1O1u-6" value="菜单权限" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="630" y="430" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T-lULtYK8KFaJdvM1O1u-7" value="按钮权限" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="630" y="520" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T-lULtYK8KFaJdvM1O1u-8" value="关联表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="250" y="710" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T-lULtYK8KFaJdvM1O1u-9" value="角色权限" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="390" y="640" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T-lULtYK8KFaJdvM1O1u-10" value="用户部门" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="390" y="710" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
