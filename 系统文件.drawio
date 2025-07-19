@@ -7,14 +7,17 @@
         <mxCell id="Fa9SJefxMboqEr4pW7fy-1" value="用户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="100" y="490" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T-lULtYK8KFaJdvM1O1u-1" value="部门" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="T-lULtYK8KFaJdvM1O1u-1" value="部门" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="230" y="420" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T-lULtYK8KFaJdvM1O1u-2" value="职务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="230" y="490" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T-lULtYK8KFaJdvM1O1u-3" value="角色" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="T-lULtYK8KFaJdvM1O1u-3" value="角色" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="230" y="560" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T-lULtYK8KFaJdvM1O1u-4" value="用户必须有部门和角色" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="620" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
